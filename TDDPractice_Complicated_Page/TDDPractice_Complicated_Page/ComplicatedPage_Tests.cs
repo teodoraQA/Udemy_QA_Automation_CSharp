@@ -27,9 +27,6 @@ namespace TDDPractice_Complicated_Page
             var result = complicatedPage.TypeInSearchBar("automation testing");
             Assert.AreEqual("automation testing", result.SearchResultsKeyword());
             Assert.AreEqual("https://ultimateqa.com/?s=automation%20testing", result.GetResultPageUrl());
-
-
-
         }
 
         [TestCleanup]

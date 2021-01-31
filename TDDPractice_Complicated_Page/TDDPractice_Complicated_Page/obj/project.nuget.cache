@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9ecPPD0fSRjL+P51+W/qczlr8GHmxkksInw2H+ja9OZBuCSySwWlhu2VqZZVHq50odH3v9MW65Eg6Rj/dIMLQ==",
+  "dgSpecHash": "hcltrfEeG9LIS1oDKQkpS35IaANh7cy3lKkYI2tGE10HawcY9kuOsfjg+3i3Z7Ul+dJHs1xM68Mu8qHalSus7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Teodora\\source\\repos\\Udemy_QA_Automation_CSharp\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj",
+  "projectFilePath": "C:\\Users\\Teodora\\source\\repos\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Teodora\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Teodora\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Teodora\\source\\repos\\Udemy_QA_Automation_CSharp\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj": {}
+    "C:\\Users\\Teodora\\source\\repos\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Teodora\\source\\repos\\Udemy_QA_Automation_CSharp\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj": {
+    "C:\\Users\\Teodora\\source\\repos\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Teodora\\source\\repos\\Udemy_QA_Automation_CSharp\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj",
+        "projectUniqueName": "C:\\Users\\Teodora\\source\\repos\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj",
         "projectName": "TDDPractice_Complicated_Page",
-        "projectPath": "C:\\Users\\Teodora\\source\\repos\\Udemy_QA_Automation_CSharp\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj",
+        "projectPath": "C:\\Users\\Teodora\\source\\repos\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page.csproj",
         "packagesPath": "C:\\Users\\Teodora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Teodora\\source\\repos\\Udemy_QA_Automation_CSharp\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\obj\\",
+        "outputPath": "C:\\Users\\Teodora\\source\\repos\\TDDPractice_Complicated_Page\\TDDPractice_Complicated_Page\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Teodora\\AppData\\Roaming\\NuGet\\NuGet.Config",

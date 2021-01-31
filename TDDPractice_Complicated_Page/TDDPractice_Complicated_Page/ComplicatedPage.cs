@@ -3,19 +3,15 @@ using System;
 
 namespace TDDPractice_Complicated_Page
 {
-    public class ComplicatedPage
+    public class ComplicatedPage : BasePage
     {
-        public IWebDriver Driver { get;  }
         public IWebElement SearchBar
         {
             get { return Driver.FindElement(By.XPath("//input[@id='s']")); }
         }
-        
 
-        public ComplicatedPage(IWebDriver driver)
-        {
-            Driver = driver;
-        }
+        public ComplicatedPage(IWebDriver driver) : base(driver) { }
+       
         internal void Open()
         {
             Driver.Navigate().GoToUrl("https://ultimateqa.com/complicated-page/");
@@ -24,7 +20,7 @@ namespace TDDPractice_Complicated_Page
 
         internal ResultPage TypeInSearchBar(string textSearch)
         {
-            SearchBar.SendKeys("automation testing");
+            SearchBar.SendKeys(textSearch);
             return new ResultPage(Driver);
         }
     }

@@ -4,14 +4,10 @@ using System;
 
 namespace TDDPractice_Complicated_Page
 {
-    internal class ResultPage
+    internal class ResultPage: BasePage
     {
-        private IWebDriver Driver { get; }
-
-        public ResultPage(IWebDriver driver)
-        {
-            Driver = driver;
-        }
+        public ResultPage(IWebDriver driver) : base(driver) { }
+        
 
         internal string GetResultPageUrl()
         {
